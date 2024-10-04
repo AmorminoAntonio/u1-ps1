@@ -1,0 +1,198 @@
+*/ {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1.2rem;
+    color: #393d41;
+    margin-inline: auto;
+}
+
+header {
+    text-align: center;
+    background-color: black;
+    padding: 3rem;
+}
+
+header img {
+    display: block;
+    text-align: center;
+    margin-inline: auto;
+    padding: 10px;
+    width: 50%;
+}
+
+header p {
+    padding: 4px;
+    color: white;
+}
+
+main {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif; 
+    text-align: center;
+    line-height: normal;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #25a2c3;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 2rem;
+    line-height: 1.5;
+    
+}
+
+h2 {
+    font-family: 'Open Sans' , sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 1rem;
+    line-height: 1.5;
+
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #25a2c3;
+    padding: 2rem;
+    line-height: 1.5;
+    
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #25a2c3;
+    padding: 2rem;
+    line-height: 1.5;
+}
+
+
+.bg-img {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    padding: 2rem;
+    line-height: 1.60;
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+
+}
+
+.button {
+    color: white;
+    background-color: #f04c2f;
+    padding: 1rem;
+    margin-top: 3rem;
+    height: 3rem;
+    width: 10rem;
+    border-style: none;
+    border-radius: 6px;
+}
+
+.ricercato {
+    text-align: center;
+    line-height: 2;
+    padding: 2rem;
+}
+
+.connoi {
+    text-align: center;
+    line-height: 2;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.connoi img{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        object-fit: cover;
+        margin-top: 2rem;
+}
+
+.scelta {
+    text-align: center;
+    line-height: 2;
+    padding: 2rem;
+}
+
+.libero {
+    text-align: center;
+    line-height: 2;
+    padding: 2rem;
+}
+
+
+.garante {
+    padding: 2rem;
+    text-align: center;
+    color: white;
+    background-color: #e22d0e;
+    margin-bottom: 3rem;
+}
+
+.garante p {
+    font-style: italic;
+}
+
+.garante cite {
+    font-style: normal;
+    font-weight: 800;
+}
+
+
+
+article img {
+    text-align: center;
+    width: 90%;
+}
+
+.tuopc {
+    border:2px solid #dee1e3;
+    margin-bottom: 3rem;
+}
+
+.tuopc p {
+    padding: 1rem;
+}
+
+
+.imparaora {
+    border:2px solid #dee1e3;
+    margin-bottom: 3rem;
+}
+
+.imparaora p {
+    padding: 1rem;
+}
+
+.lavorasubito {
+    border:2px solid #dee1e3;
+    margin-bottom: 3rem;
+
+}
+
+.lavorasubito p {
+    padding: 1rem;
+}
+
+aside {
+    color: white;
+    padding: 2rem;
+    background-color: #25a2c3;
+    text-align: center;
+    line-height: 1.5;
+}
+
+
+footer {
+    background-color: #25a2c3;
+    padding: 2rem;
+    text-align: center;
+}
+
